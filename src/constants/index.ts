@@ -112,7 +112,7 @@ const experiences = [
         company_name: "ShadowFox",
         icon: shadowfox,
         iconBg: "#E6DEDD",
-        date: "Jan 2025 - Feb 2024",
+        date: "Jan 2025 - Feb 2025",
         points: [
             "Port scanning and network reconnaissance using Nmap.",
             "Directory brute-force attacks with Gobuster.",
