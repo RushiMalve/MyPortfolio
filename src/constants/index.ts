@@ -201,8 +201,8 @@ const projects = [
             },
         ],
         image: rockpaperscissor,
-        source_code_link: "https://github.com/RushiMalve/Stone-paper-scissor-game.py",
-        live_link: "https://github.com/RushiMalve/Stone-paper-scissor-game.py",
+        source_code_link: "https://github.com/RushiMalve/Rock-paper-scissor-game.py",
+        live_link: "https://github.com/RushiMalve/Rock-paper-scissor-game.py",
     },
     {
         name: "SnapGaurd: Secure Image Encryption & Decryption Mobile Application",
